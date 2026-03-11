@@ -32,7 +32,7 @@ This project analyzes retail sales transaction data using Power BI to generate b
 - Data Modeling
 - Data Visualization
 
-## Dashboard Pages
+# Dashboard Pages
 
 ### Overview Dashboard
 Shows high-level business insights including sales by city, profit vs sales relationship, and overall sales trends.
